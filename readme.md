@@ -7,3 +7,4 @@ latest build and push to self hosted github-pages at games.timbo.cc: 2021-02-09 
 
 ## todo
 * add the games as submodules from forks of the originals (to make sure no analytics get through) but also keep it simpler to update the games 
+* option to dark-mode
