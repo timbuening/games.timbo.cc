@@ -452,12 +452,12 @@ var gameEngine = {
     gameEngine.checkTapsCount(); // check if taps finished
     toolsBox.toggleAnimation(gmStatsCurrentTapCount, 'burst-animation');
     audioPool.playSound(touchBlue);
-    // ga('send', 'event', 'Circle_Tap', 'Good'); // Google analytics events
+    // ga('send', 'event', 'Circle_Tap', 'Good'); // Google analytics events (note from github/timbuening: Google Analytics are disabled, as i removed the scripts)
   },
   evilCircleTap: function() {
     gameEngine.deadlyTap();
     audioPool.playSound(touchRed);
-    // ga('send', 'event', 'Circle_Tap', 'Evil'); // Google analytics events
+    // ga('send', 'event', 'Circle_Tap', 'Evil'); // Google analytics events (note from github/timbuening: Google Analytics are disabled, as i removed the scripts)
   },
   pause: function() {
     timeEngine.stop();
