@@ -3,4 +3,4 @@
 If you have suggestions about games that i could add, let me know also.  
 Or, just contribute yourself! :) 
 
-latest build and push to self hosted github-pages at games.timbo.cc: 2021-02-09 15:00 CET
+latest build and push to self hosted github-pages at games.timbo.cc: 2021-02-09 16:00 CET
