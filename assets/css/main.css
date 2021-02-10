@@ -72,6 +72,22 @@ input, select, textarea {
 	appearance: none;
 }
 
+.notices {
+	margin: 1.5rem 0;
+	padding: 1px 1px 1px 30px;
+	border-left: 10px solid #f0ad4e;
+	background: #fcf8f2;
+	color: #df8a13;
+}
+
+.running {
+	margin: 1.5rem 0;
+	padding: 1px 1px 1px 30px;
+	border-left: 10px solid #84da21d8;
+	background: #fcf8f2;
+	color: #17d437;
+}
+
 /* Basic */
 
 	@-ms-viewport {
